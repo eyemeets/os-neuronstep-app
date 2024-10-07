@@ -1,7 +1,7 @@
 
 # NeuronStep App
 
-**NeuronStep** is an AI-powered app designed to assist in curriculum generation, validation, and analysis. It provides users with advanced tools for creating and managing educational content, tailored for educators, content creators, and course designers.
+**NeuronStep** is an AI-powered mobile application that generates, validates, and analyzes educational curricula. Built for students, educators, content creators, and anyone who values structured learning, NeuronStep uses the "gpt-4o-mini" model to create dynamic course content and provide feedback based on educational frameworks like Bloom’s Taxonomy and Cognitive Load Theory.
 
 ### Server Repository
 
